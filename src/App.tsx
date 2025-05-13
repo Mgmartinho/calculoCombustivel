@@ -28,7 +28,7 @@ function App() {
       });
     } else {
       setInfo({
-        title: "Use Gasolina...",
+        title: "Use Gasolina =X...",
         gasolina: gasolinaInput,
         alcool: alcoolInput,
       });
